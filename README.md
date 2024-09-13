@@ -1,1 +1,1 @@
-# Perception-des-objets-tangibles-augment-s-dans-un-environnement-virtuel
+# Perception des objets tangibles augmentés dans un environnement virtuel
