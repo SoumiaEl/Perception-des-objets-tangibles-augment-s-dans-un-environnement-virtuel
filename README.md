@@ -3,7 +3,7 @@
 
 Ce dépôt GitHub contient tous les scripts utilisés et développés dans le cadre de cette étude. Les différents dossiers sont organisés selon les tâches spécifiques réalisées au cours du projet.
 
-## Structure des Dossiers
+## Contenu des Dossiers
 
 - **Application d'évaluation utilisée par les participants** : Script pour l'interface graphique permettant aux participants d'évaluer les textures pendant les tests.
 
