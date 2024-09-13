@@ -13,6 +13,6 @@ Ce dépôt GitHub contient tous les scripts utilisés et développés dans le ca
 
 - **Génération automatique des cheveux pour un fichier STL** : Script facilitant la modélisation et l'impression 3D des textures capillaires.
 
-- **Début de l'analyse sous Matlab** : Contient les premiers scripts Matlab utilisés pour analyser la dynamique du système "doigt + texture" soumis aux vibrations.
+
 
 
