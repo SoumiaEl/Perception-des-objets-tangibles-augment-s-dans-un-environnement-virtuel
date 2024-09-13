@@ -13,6 +13,8 @@ Ce dépôt GitHub contient tous les scripts utilisés et développés dans le ca
 
 - **Génération automatique des cheveux pour un fichier STL** : Script facilitant la modélisation et l'impression 3D des textures capillaires.
 
+- **System_Frequency_response** : Ce dossier contient le notebook MATLAB "frequency_response.mlx", qui inclut les mesures d'accélérations permettant d'intégrer le déplacement du doigt et d'identifier la dynamique du système doigt + texture + actionneur.
+
 
 
 
