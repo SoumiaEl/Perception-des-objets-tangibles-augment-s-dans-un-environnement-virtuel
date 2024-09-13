@@ -1,17 +1,18 @@
 # Perception des objets tangibles augmentés dans un environnement virtuel
 
 
-Ce dépôt GitHub contient tous les codes réalisés et utilisés dans le cadre de mon projet de stage. 
-Les différents dossiers sont organisés selon les fonctions qu'ils remplissent dans le projet :
+Ce dépôt GitHub contient tous les scripts utilisés et développés dans le cadre de cette étude. Les différents dossiers sont organisés selon les tâches spécifiques réalisées au cours du projet.
 
-\begin{itemize}
-    \item \textbf{Application d'évaluation utilisée par les participants} : script de l'interface graphique développée pour permettre aux participants d'évaluer les textures pendant les tests.
-    
-    \item \textbf{Statistiques} : script utilisé pour l'analyse des données dont notamment le test ART ANOVA.
-    
-    \item \textbf{Génération initiale des images bitmap} : script permettant de générer automatiquement les images bitmap pour imprimer les textures capillaires en 3D.
-    
-    \item \textbf{Génération automatique des cheveux pour un fichier STL} : script facilitant la modélisation et l'impression 3D des textures capillaires.
-    
-    \item \textbf{Début de l'analyse sous Matlab} : contient les premiers scripts Matlab utilisés pour analyser la dynamique du système "doigt + texture" soumis aux vibrations.
-\end{itemize}
+## Structure des Dossiers
+
+- **Application d'évaluation utilisée par les participants** : Script pour l'interface graphique permettant aux participants d'évaluer les textures pendant les tests.
+
+- **Statistiques** : Script utilisé pour l'analyse statistique des données, incluant le test ART ANOVA.
+
+- **Génération initiale des images bitmap** : Script permettant de générer automatiquement les images bitmap pour l'impression des textures capillaires en 3D.
+
+- **Génération automatique des cheveux pour un fichier STL** : Script facilitant la modélisation et l'impression 3D des textures capillaires.
+
+- **Début de l'analyse sous Matlab** : Contient les premiers scripts Matlab utilisés pour analyser la dynamique du système "doigt + texture" soumis aux vibrations.
+
+
